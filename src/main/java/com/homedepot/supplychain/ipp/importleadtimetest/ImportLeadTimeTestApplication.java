@@ -9,5 +9,6 @@ public class ImportLeadTimeTestApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ImportLeadTimeTestApplication.class, args);
 		System.out.println("Hello");
+		System.out.println("Good Morning Day2...");
 	}
 }
