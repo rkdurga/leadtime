@@ -12,5 +12,6 @@ public class ImportLeadTimeTestApplication {
 		System.out.println("Good Morning Day2...");
 		System.out.println("Testing to Move this Branch to Master");
 		System.out.println("Added this line at 3:32 pm");
+		System.out.println("Wish you a Happy Friday RK");
 	}
 }
